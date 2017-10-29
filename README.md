@@ -19,3 +19,6 @@ click 'Solve' to get AI solution which is saved under 'answer' folder;
 click 'Record' to view historical records, click 'Replay' to replay the solution;
 
 drag the slide bar to control replay speed.
+
+
+Please contact 15120000531@163.com for the source code of Sokoban.exe and SokobanDraw.exe, or for more maps some of which designed by myself, or you have any related questions.
