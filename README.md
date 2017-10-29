@@ -7,6 +7,8 @@ Run Sokoban.exe to play the game.
 
 Run SokobanDraw.exe to draw a map.
 
+Notice: if your Windows OS is 32-bit, replace Sokoban.exe, SokobanAI.dll and sqlite3.dll with the files under 'x86' folder.
+
 
 Game Tips:
 
